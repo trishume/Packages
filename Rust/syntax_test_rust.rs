@@ -937,3 +937,7 @@ pub const FOO: Option<[i32; 1]> = Some([1]);
 //                        ^ punctuation.separator
 //                          ^ constant.numeric
 //                           ^ punctuation.definition.group.end.rust
+
+impl ApplicationPreferenceseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee {
+//   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ entity.name.impl.rust
+}
